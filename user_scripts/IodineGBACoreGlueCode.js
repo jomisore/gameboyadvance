@@ -30,6 +30,7 @@ var games = {
     "digimon_racing":"Digimon Racing",
     "dbz_supersonic":"Dragon Ball Z - Supersonic Warriors",
     "drilldozer":"Drill Dozer",
+    "donkey_kong_country2":"Donkey Kong Country 2",
     "earthwormjim":"Earthworm Jim",
     "earthwormjim2":"Earthworm Jim 2",
     "ff1and2":"Final Fantasy 1 & 2 Advance",
